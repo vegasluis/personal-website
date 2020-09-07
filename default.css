@@ -63,6 +63,19 @@ h6{ font-size: 16px;}
     overflow: auto;
 }
 
+.social-container{
+    display: block;
+    text-align: center;
+}
+.social-pics{
+    align-content: center;
+    margin:0 auto;
+
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+}
+
 .main-container{
     width: 1200px;
     margin: 0 auto;
